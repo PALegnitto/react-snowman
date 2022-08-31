@@ -7,3 +7,10 @@
 .Snowman-word {
   letter-spacing: 1em;
 }
+
+.hidden {
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}
